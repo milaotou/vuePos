@@ -17,7 +17,7 @@
 7.使用vue2.0语法和es6语法；
 
 ### （三）系统成果
-![运行结果](https://milaotou.github.io/vuePos/dev)
+[运行结果https://milaotou.github.io/vuePos/dev](https://milaotou.github.io/vuePos/dev)
 
 
 ### （四）系统使用
