@@ -17,7 +17,7 @@
 7.使用vue2.0语法和es6语法；
 
 ### （三）系统成果
-![运行结果](http://pbr0erxxq.bkt.clouddn.com/2018-07-12/01.png)
+[运行结果](http://pbr0erxxq.bkt.clouddn.com/2018-07-12/01.png)
 
 ### （四）系统使用
 
